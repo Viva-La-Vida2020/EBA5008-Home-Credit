@@ -6,13 +6,6 @@ In an effort to refine the assessment of creditworthiness, this project targets 
 
 ## Installation
 
-
-Certainly! Here's how you can write the Installation section of your README file based on the provided Python code:
-
-------
-
-## Installation
-
 To use this project, follow these steps:
 
 1. **Clone the Repository:**
